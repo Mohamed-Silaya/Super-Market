@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1598886373 source:c:\users\mohamed\desktop\c++ projects\super market\main.cpp
+	<iostream>
+	<conio.h>
+	<fstream>
+	<stdlib.h>
+
+1598886373 source:c:\users\mohamed\desktop\c++ projects\c++\super market\main.cpp
+	<iostream>
+	<conio.h>
+	<fstream>
+	<stdlib.h>
+
